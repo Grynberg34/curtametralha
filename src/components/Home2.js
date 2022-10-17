@@ -3,7 +3,7 @@ import "../scss/home2.scss";
 function Home2() {
 
   return (
-    <div className="home" style={{backgroundImage: `url('/background3.png')`}}>
+    <div className="home2" style={{backgroundImage: `url('/background3.png')`}}>
       <img id="embreve" className="home__logo" src="/logo3.png" alt=""></img>
 
       <img id="home_1" src="/home/x.png" alt=""></img>

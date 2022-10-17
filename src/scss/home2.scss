@@ -2,147 +2,150 @@
 @import '../scss/font.scss';
 
 
-.home {
+.home2 {
     height: 100vh;
     position: relative;
     overflow: hidden !important;
+
+    #embreve {
+        position: absolute;
+        width: 35%;
+        top: 38%;
+        left: 33%;
+        transform: none;
+    }
+    
+    #home_1 {
+        position: absolute;
+        width: 20%;
+        bottom: 31%;
+        left: 5%;
+    }
+    
+    #home_2 {
+        position: absolute;
+        width: 15%;
+        bottom: -17%;
+        left: 12%;
+        transform: rotate(-90deg);
+    }
+    
+    #home_3 {
+        position: absolute;
+        width: 25%;
+        bottom: -7%;
+        right: 8%;
+    }
+    
+    #home_4 {
+        position: absolute;
+        width: 8%;
+        top: 11%;
+        left: 10%;
+    }
+    
+    #home_5 {
+        position: absolute;
+        width: 10%;
+        top: 33%;
+        right: 7%;
+    }
+    
+    #home_6 {
+        position: absolute;
+        width: 15%;
+        top: 52%;
+        right: 7%;
+        transform: rotate(8deg)
+    }
+    
+    #home_7 {
+        position: absolute;
+        width: 26%;
+        top: -7%;
+        right: 12%;
+        transform: rotate(-8deg)
+    }
+    
+    #home_8 {
+        position: absolute;
+        width: 12%;
+        top: 14%;
+        left: 27%;
+        transform: rotate(-12deg);
+    }
 }
 
-#embreve {
-    position: absolute;
-    width: 35%;
-    top: 38%;
-    left: 33%;
-    transform: none;
-}
-
-#home_1 {
-    position: absolute;
-    width: 20%;
-    bottom: 31%;
-    left: 5%;
-}
-
-#home_2 {
-    position: absolute;
-    width: 15%;
-    bottom: -17%;
-    left: 12%;
-    transform: rotate(-90deg);
-}
-
-#home_3 {
-    position: absolute;
-    width: 25%;
-    bottom: -7%;
-    right: 8%;
-}
-
-#home_4 {
-    position: absolute;
-    width: 8%;
-    top: 11%;
-    left: 10%;
-}
-
-#home_5 {
-    position: absolute;
-    width: 10%;
-    top: 33%;
-    right: 7%;
-}
-
-#home_6 {
-    position: absolute;
-    width: 15%;
-    top: 52%;
-    right: 7%;
-    transform: rotate(8deg)
-}
-
-#home_7 {
-    position: absolute;
-    width: 26%;
-    top: -7%;
-    right: 12%;
-    transform: rotate(-8deg)
-}
-
-#home_8 {
-    position: absolute;
-    width: 12%;
-    top: 14%;
-    left: 27%;
-    transform: rotate(-12deg);
-}
 
 
 @media only screen and (max-width: 767px) {
 
-    #embreve {
-        width: 71%;
-        top: 38%;
-        left: 17%;
-    }
-
-    #home_1 {
-        width: 31%;
-        top: 22%;
-        left: -7%;
-    }
-
-    #home_2 {
-        width: 26%;
-        bottom: -5%;
-        left: 13%;
-    }
-
-    #home_3 {
-        width: 30%;
-        top: 72%;
-        right: -8%;
-    }
-
-    #home_4 {
-        position: absolute;
-        width: 15%;
-        top: 72%;
-        left: unset;
-        right: 53%;
-    }
-
-    #home_5 {
-        position: absolute;
-        width: 20%;
-        top: 34%;
-        right: 3%;
-        left: unset;
-    }
-
-    #home_6 {
-        position: absolute;
-        width: 42%;
-        top: 8%;
-        right: -8%;
-    }
-
-    #home_7 {
-        position: absolute;
-        width: 34%;
-        top: 0%;
-        left: 0%;
-        rotate: 30deg;
-    }
-
-    #home_8 {
-        position: absolute;
-        width: 35%;
-        bottom: 0%;
-        right: -3%;
-        left: unset;
-        top: unset;
-        transform: rotate(10deg);
-
+    .home2 {
+        #embreve {
+            width: 71%;
+            top: 38%;
+            left: 17%;
+        }
+    
+        #home_1 {
+            width: 31%;
+            top: 22%;
+            left: -7%;
+        }
+    
+        #home_2 {
+            width: 26%;
+            bottom: -5%;
+            left: 13%;
+        }
+    
+        #home_3 {
+            width: 30%;
+            top: 72%;
+            right: -8%;
+        }
+    
+        #home_4 {
+            position: absolute;
+            width: 15%;
+            top: 72%;
+            left: unset;
+            right: 53%;
+        }
+    
+        #home_5 {
+            position: absolute;
+            width: 20%;
+            top: 34%;
+            right: 3%;
+            left: unset;
+        }
+    
+        #home_6 {
+            position: absolute;
+            width: 42%;
+            top: 8%;
+            right: -8%;
+        }
+    
+        #home_7 {
+            position: absolute;
+            width: 34%;
+            top: 0%;
+            left: 0%;
+            rotate: 30deg;
+        }
+    
+        #home_8 {
+            position: absolute;
+            width: 35%;
+            bottom: 0%;
+            right: -3%;
+            left: unset;
+            top: unset;
+            transform: rotate(10deg);
+    
+        }
     }
 
 }
