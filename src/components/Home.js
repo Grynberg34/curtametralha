@@ -5,9 +5,9 @@ function Home() {
 
   return (
     <div className="home" style={{backgroundImage: `url('/background3.png')`}}>
-      <img className="home__logo tilt-in-top-1" src="/logo.png" alt=""></img>
+      <img className="home__logo" src="/logo.png" alt=""></img>
 
-      <div className="home__menu flip-in-hor-bottom" style={{backgroundImage: `url('/home/background-menu.png')`}}>
+      <div className="home__menu" style={{backgroundImage: `url('/home/background-menu.png')`}}>
         <Link className="home__menu__link" to="/">Programação</Link>
         <Link className="home__menu__link" to="/">Sessões</Link>
         <Link className="home__menu__link" to="/">Seminários</Link>
