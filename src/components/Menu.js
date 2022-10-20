@@ -8,8 +8,6 @@ function Menu(props) {
 
   var open = props.open;
 
-  console.log(open)
-
   function openClose() {
     open = !open;
 
