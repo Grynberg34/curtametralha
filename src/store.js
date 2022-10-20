@@ -7,6 +7,7 @@ import reducers from './reducers';
 const persistConfig = {
     key: 'root',
     storage: storage,
+    blacklist: ['open']
 }
    
 const persistedReducer = persistReducer(persistConfig, reducers)

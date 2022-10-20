@@ -7,10 +7,11 @@ function Home() {
     <div className="home" style={{backgroundImage: `url('/background3.png')`}}>
       <img className="home__logo" src="/logo.png" alt=""></img>
 
-      <div className="home__menu" style={{backgroundImage: `url('/home/background-menu.png')`}}>
-        <Link className="home__menu__link" to="/">Programação</Link>
-        <Link className="home__menu__link" to="/">Sessões</Link>
-        <Link className="home__menu__link" to="/">Seminários</Link>
+      <div className="home__menu">
+        <img className="home__menu__img" src="/home/background-menu.png" alt="" />
+        <Link className="home__menu__link" to="/v1/programacao">Programação</Link>
+        <Link className="home__menu__link" to="/v1/sessoes">Sessões</Link>
+        <Link className="home__menu__link" to="/v1/seminarios">Seminários</Link>
       </div>
 
       <img id="home_1" src="/home/x.png" alt=""></img>

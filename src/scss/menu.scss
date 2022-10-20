@@ -7,7 +7,7 @@
     position: fixed;
     top: 12%;
     left: 3%;
-    width: 4%;
+    width: 8%;
     cursor: pointer;
     z-index: 10;
 }
@@ -23,6 +23,7 @@
     z-index: 10;
     height: 100%;
     background-repeat: no-repeat;
+    background-size: contain;
 
     .open__close {
         position: absolute;
@@ -36,7 +37,7 @@
         display: block;
         font-family: 'garage-gothic', sans-serif;
         font-size: 26px;
-        color:  $preto;
+        color:  $cinza;
         font-weight: 700;
         margin-bottom: 0.5vw;
         text-decoration: none;
@@ -44,7 +45,7 @@
 
         &:hover {
             text-decoration: none;
-            color: $cinza;
+            color: $preto;
         }
 
         &:first-of-type {
