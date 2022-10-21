@@ -1,0 +1,50 @@
+@import '../scss/colors.scss';
+@import '../scss/font.scss';
+
+
+.sessoes {
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 25vw;
+    padding-bottom: 15vw;
+    height: 100vh;
+
+    .sessoes__title {
+        font-family: 'garage-gothic', sans-serif;
+        font-size: 70px;
+        color:  $cinza;
+        font-weight: 700;
+        margin-bottom: 4vw;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    .sessoes {
+        background-position: center;
+    }
+
+
+}
+   
+
+@media only screen and (min-width: 900px) and (max-width: 1100px) {
+
+
+
+}
+
+@media only screen and (min-width: 1101px) and (max-width: 1300px) {
+
+
+}
+
+@media only screen and (min-width: 1301px) and (max-width: 1500px) {
+
+
+}
