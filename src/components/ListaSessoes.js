@@ -36,7 +36,7 @@ function ListaSessoes(props) {
 
                   { sessao.filmes.map( (filme) =>
                   
-                    <div className="lista-sessoes__sessao__filme">
+                    <div key={filme.nome} className="lista-sessoes__sessao__filme">
                       <h1 className="lista-sessoes__sessao__filme__title">{filme.nome}  <span className="lista-sessoes__sessao__filme__info">{filme.direção}  |  {filme.estado}  |  {filme.ano}  |  {filme.duração}</span> </h1>
                     </div>
 
