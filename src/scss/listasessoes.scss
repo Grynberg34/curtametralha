@@ -82,6 +82,56 @@
 
 @media only screen and (max-width: 767px) {
 
+    .lista-sessoes {
+        padding-top: 30vw;
+        padding-left: 4vw;
+        padding-right: 4vw;
+        margin-bottom: 30vw;
+
+        .lista-sessoes__title {
+            font-size: 50px;
+        }
+
+        .lista-sessoes__sessao {
+            margin-bottom: 10vw;
+            padding: 6vw;
+            padding-right: 8vw;
+
+            .lista-sessoes__sessao__nome {
+                font-size: 26px;
+                margin-bottom: 4vw;
+            }
+
+            .lista-sessoes__sessao__classificacao {
+                font-size: 12px;
+                margin-bottom: 10vw;
+                line-height: 2;
+            }
+
+            .lista-sessoes__sessao__extra {
+                font-size: 12px;
+                line-height: 2;
+            }
+
+            .lista-sessoes__sessao__info {
+                font-size: 12px;
+                line-height: 2;
+                margin-bottom: 6vw;
+            }
+
+            .lista-sessoes__sessao__filme {
+                .lista-sessoes__sessao__filme__title {
+                    font-size: 16px;
+                    padding-bottom: 4vw;
+                }
+
+                .lista-sessoes__sessao__filme__info {
+                    font-size: 10px;
+                }
+            }
+        }
+
+    }
 
 
 }
@@ -95,23 +145,114 @@
 
 @media only screen and (min-width: 900px) and (max-width: 1100px) {
 
+    .lista-sessoes {
+        .lista-sessoes__sessao {
+            .lista-sessoes__sessao__nome {
+                font-size: 30px;
+            }
+
+            .lista-sessoes__sessao__classificacao {
+                font-size: 14px;
+            }
+
+            .lista-sessoes__sessao__extra {
+                font-size: 14px;
+            }
+
+            .lista-sessoes__sessao__info {
+                font-size: 12px;
+            }
+
+            .lista-sessoes__sessao__filme {
+                .lista-sessoes__sessao__filme__title {
+                    font-size: 16px;
+                }
+
+                .lista-sessoes__sessao__filme__info {
+                    font-size: 10px;
+                }
+            }
+        }
+    }
 
 }
 
 @media only screen and (min-width: 1101px) and (max-width: 1300px) {
 
+    .lista-sessoes {
+        .lista-sessoes__sessao {
+            .lista-sessoes__sessao__nome {
+                font-size: 34px;
+            }
 
+            .lista-sessoes__sessao__classificacao {
+                font-size: 16px;
+            }
+
+            .lista-sessoes__sessao__extra {
+                font-size: 16px;
+            }
+
+            .lista-sessoes__sessao__info {
+                font-size: 14px;
+            }
+
+            .lista-sessoes__sessao__filme {
+                .lista-sessoes__sessao__filme__title {
+                    font-size: 18px;
+                }
+
+                .lista-sessoes__sessao__filme__info {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
 
 }
 
 @media only screen and (min-width: 1301px) and (max-width: 1500px) {
 
+    .lista-sessoes {
+        .lista-sessoes__sessao {
+            .lista-sessoes__sessao__nome {
+                font-size: 38px;
+            }
 
+            .lista-sessoes__sessao__classificacao {
+                font-size: 16px;
+            }
+
+            .lista-sessoes__sessao__extra {
+                font-size: 16px;
+            }
+
+            .lista-sessoes__sessao__info {
+                font-size: 14px;
+            }
+
+            .lista-sessoes__sessao__filme {
+                .lista-sessoes__sessao__filme__title {
+                    font-size: 18px;
+                }
+
+                .lista-sessoes__sessao__filme__info {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
 
 }
 
 @media only screen and (min-width: 1501px) and (max-width: 1700px) {
 
-
+    .lista-sessoes {
+        .lista-sessoes__sessao {
+            .lista-sessoes__sessao__nome {
+                font-size: 44px;
+            }
+        }
+    }
 
 }

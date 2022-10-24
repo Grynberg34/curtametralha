@@ -55,33 +55,31 @@
 }
 
 @media only screen and (max-width: 767px) {
-
     .icon {
-        position: absolute;
-        top: 5%;
-        left: 9%;
-        width: 17%;
-        z-index: 99;
+        position: fixed;
+        top: 8%;
+        left: 5%;
+        width: 30%;
+        cursor: pointer;
+        z-index: 10;
     }
 
     .open {
-        position: absolute;
-        top: 5%;
-        left: 9%;
-        width: 57%;
-        padding: 6vw;
-        padding-bottom: 4vw;
-        padding-top: 24vw;
-        padding-left: 14vw;
-        z-index: 99;
+        top: 8%;
+        left: 5%;
+        width: 50%;
+        padding: 1vw;
+        padding-left: 10vw;
+        padding-bottom: 0;
+        z-index: 10;
+        height: 100%;
 
         .open__link {
-            margin-bottom: 4vw;
-        }
 
-        .open__close {
-            top: 6%;
-            right: 14%;
+
+            &:first-of-type {
+                padding-top: 22vw;
+            }
         }
     }
 
@@ -92,7 +90,7 @@
     .open {
         .open__close {
             top: 4%;
-            right: 21%;
+            right: 10%;
         }
     }
 
