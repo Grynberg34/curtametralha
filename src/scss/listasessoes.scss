@@ -7,18 +7,29 @@
 
     .lista-sessoes__title {
         font-family: 'garage-gothic', sans-serif;
-        font-size: 70px;
+        font-size: 90px;
         color:  $preto;
         font-weight: 700;
-        margin-bottom: 4vw;
+        margin-bottom: 8vw;
         text-transform: uppercase;
     }
 
     .lista-sessoes__sessao {
-        margin-bottom: 4vw;
+        margin-bottom: 8vw;
         padding: 2vw;
+        position: relative;
+        height: 34vw;
+
+        .lista-sessoes__sessao__img {
+            position: absolute;
+            z-index: 0;
+            left: -22%;
+            top: -16%;
+            width: 70vw;
+        }
         
         .lista-sessoes__sessao__info {
+            position: relative;
             font-family: 'neue-haas-grotesk-display', sans-serif;
             font-size: 16px;
             color:  $cinza;
@@ -26,10 +37,12 @@
             margin-bottom: 0.5vw;
             font-style: italic;
             text-transform: uppercase;
+            z-index: 90;
 
         }
 
         .lista-sessoes__sessao__nome {
+            position: relative;
             font-family: 'garage-gothic', sans-serif;
             font-size: 50px;
             color:  $vermelho;
@@ -37,24 +50,33 @@
             margin-bottom: 1vw;
             text-decoration: none;
             text-transform: uppercase;
+            z-index: 90;
         }
 
         .lista-sessoes__sessao__classificacao {
+            position: relative;
             font-family: 'neue-haas-grotesk-display', sans-serif;
             font-size: 18px;
             color:  $cinza;
             font-weight: 400;
             margin-bottom: 2vw;
+            z-index: 90;
         }
 
         .lista-sessoes__sessao__extra {
+            position: relative;
             font-family: 'neue-haas-grotesk-display', sans-serif;
             font-size: 18px;
             color:  $cinza;
             font-weight: 400;
+            z-index: 90;
         }
 
         .lista-sessoes__sessao__filme {
+            position: relative;
+            z-index: 90;
+            padding-right: 4vw;
+
             .lista-sessoes__sessao__filme__title {
                 font-family: 'garage-gothic', sans-serif;
                 font-size: 22px;
@@ -90,15 +112,24 @@
 
         .lista-sessoes__title {
             font-size: 50px;
+            margin-bottom: 30vw;
         }
 
         .lista-sessoes__sessao {
-            margin-bottom: 10vw;
+            margin-bottom: 40vw;
             padding: 6vw;
             padding-right: 8vw;
+            height: 170vw;
+
+            .lista-sessoes__sessao__img {
+                left: -87%;
+                top: 15%;
+                width: 240vw;
+                transform: rotate(90deg);
+            }
 
             .lista-sessoes__sessao__nome {
-                font-size: 26px;
+                font-size: 30px;
                 margin-bottom: 4vw;
             }
 
@@ -121,12 +152,12 @@
 
             .lista-sessoes__sessao__filme {
                 .lista-sessoes__sessao__filme__title {
-                    font-size: 16px;
+                    font-size: 20px;
                     padding-bottom: 4vw;
                 }
 
                 .lista-sessoes__sessao__filme__info {
-                    font-size: 10px;
+                    font-size: 12px;
                 }
             }
         }
@@ -138,15 +169,30 @@
 
 @media only screen and (min-width: 400px) and (max-width: 767px) {
 
+    .lista-sessoes {
+        .lista-sessoes__sessao {
+            .lista-sessoes__sessao__filme {
+                padding-bottom: 6vw;
+            }
+        }
+    }
 
 }
-  
-
 
 @media only screen and (min-width: 900px) and (max-width: 1100px) {
 
     .lista-sessoes {
+
+        .lista-sessoes__title {
+            font-size: 50px;
+        }
+
         .lista-sessoes__sessao {
+
+            .lista-sessoes__sessao__img {
+                width: 80vw;
+            }
+
             .lista-sessoes__sessao__nome {
                 font-size: 30px;
             }
@@ -180,7 +226,18 @@
 @media only screen and (min-width: 1101px) and (max-width: 1300px) {
 
     .lista-sessoes {
+
+        .lista-sessoes__title {
+            font-size: 70px;
+        }
+
+
         .lista-sessoes__sessao {
+
+            .lista-sessoes__sessao__img {
+                width: 77vw;
+            }
+
             .lista-sessoes__sessao__nome {
                 font-size: 34px;
             }
@@ -214,7 +271,19 @@
 @media only screen and (min-width: 1301px) and (max-width: 1500px) {
 
     .lista-sessoes {
+
+        .lista-sessoes__title {
+            font-size: 70px;
+        }
+
+
         .lista-sessoes__sessao {
+
+            .lista-sessoes__sessao__img {
+                width: 75vw;
+            }
+
+
             .lista-sessoes__sessao__nome {
                 font-size: 38px;
             }
@@ -252,7 +321,12 @@
             .lista-sessoes__sessao__nome {
                 font-size: 44px;
             }
+
+            .lista-sessoes__sessao__img {
+                width: 75vw;
+            }
         }
+
     }
 
 }

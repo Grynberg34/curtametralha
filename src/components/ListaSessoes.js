@@ -28,7 +28,8 @@ function ListaSessoes(props) {
               <h1 className="lista-sessoes__title">PROGRAMAÇÃO</h1>
 
               { sessoes.map( (sessao) => 
-                <div key={sessao.id} className="lista-sessoes__sessao" style={{backgroundImage: `url('/programacao/background-sessao.png')`}}>
+                <div key={sessao.id} className="lista-sessoes__sessao">
+                  <img className="lista-sessoes__sessao__img" src="/programacao/background-sessao.png" alt="" />
                   <h1 className="lista-sessoes__sessao__info">{sessao.data} | {sessao.hora} | {sessao.local}</h1>
                   <h2 className="lista-sessoes__sessao__nome">{sessao.nome}</h2>
                   <h3 className="lista-sessoes__sessao__extra">{sessao.extra}</h3>

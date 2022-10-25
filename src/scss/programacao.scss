@@ -10,13 +10,39 @@
 
 }
 
+#programacao__1 {
+    position: fixed;
+    left: 0%;
+    width: 16%;
+    top: 34%;
+}
+
+#programacao__2 {
+    position: fixed;
+    right: -8%;
+    top: 69%;
+    width: 21%;
+}
+
+
+#programacao__3 {
+    position: fixed;
+    right: -5%;
+    top: 40%;
+    width: 14%;
+}
+
 
 @media only screen and (max-width: 767px) {
 
     .programacao {
         background-position: center;
+        overflow-x: hidden;
     }
 
+    #programacao__1, #programacao__2, #programacao__3 {
+        display: none;
+    }
 
 }
    

@@ -61,7 +61,7 @@
         left: 5%;
         width: 30%;
         cursor: pointer;
-        z-index: 10;
+        z-index: 99;
     }
 
     .open {
@@ -71,7 +71,7 @@
         padding: 1vw;
         padding-left: 10vw;
         padding-bottom: 0;
-        z-index: 10;
+        z-index: 99;
         height: 100%;
 
         .open__link {

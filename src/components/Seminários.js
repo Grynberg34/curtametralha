@@ -22,7 +22,7 @@ function Seminários() {
 
               <div className="seminarios__seminario">
                 <h1 className="seminarios__seminario__info">Quarta, 02 de novembro, 11h30</h1>
-                <h2 className="seminarios__seminario__title">CURTA-METRAGEM NO BRASIL CONTEMPOR NEO: VARIAÇÕES ESTILÍSTICAS</h2>
+                <h2 className="seminarios__seminario__title">CURTA-METRAGEM NO BRASIL CONTEMPORÂNEO: VARIAÇÕES ESTILÍSTICAS</h2>
                 <h3 className="seminarios__seminario__text"><span className="seminarios__seminario__text--bold">Seminaristas:</span> Ewerton Belico, Felipe André Silva, Mariana Queen</h3>
               </div>
 
@@ -42,7 +42,11 @@ function Seminários() {
           </Row>
         </Container>
 
-      </div>      
+      </div>  
+
+      <img id="seminarios__1" src="/seminarios/1.png" alt="" />
+      <img id="seminarios__2" src="/seminarios/2.png" alt="" />
+
     </div>
   )
   
