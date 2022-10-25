@@ -23,9 +23,9 @@ function Menu(props) {
     return (
       <div className="open flicker-in-1" style={{backgroundImage: `url('/background-menu2.png')`}}>
           <img onClick={openClose} className="open__close" src="/close.png" alt=""></img>
-          <Link onClick={openClose}  to="/v1/programacao" className="open__link">Programação</Link>
-          <Link onClick={openClose}  to="/v1/seminarios" className="open__link">Seminários</Link>
-          <Link onClick={openClose}  to="/v1/sessoes" className="open__link">Sessões</Link>
+          <Link onClick={openClose}  to="/v1/programacao" className="open__link">Sessões presenciais</Link>
+          <Link onClick={openClose}  to="/v1/seminarios" className="open__link">Seminários online</Link>
+          <Link onClick={openClose}  to="/v1/sessoes" className="open__link">Exibições online</Link>
       </div>
     )
   }
