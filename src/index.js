@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import App from './components/App';
-import Home2 from './components/Home2';
 import Programação from './components/Programação';
 import Seminários from './components/Seminários';
 import Sessões from './components/Sessões';
@@ -18,11 +17,10 @@ ReactDOM.render(
     <PersistGate loading={null} persistor={persistor}>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home2 />}></Route>
-          <Route path="/v1/" element={<App />}></Route>
-          <Route path="/v1/programacao" element={<Programação />}></Route>
-          <Route path="/v1/seminarios" element={<Seminários />}></Route>
-          <Route path="/v1/sessoes" element={<Sessões />}></Route>
+          <Route path="/" element={<App />}></Route>
+          <Route path="/programacao" element={<Programação />}></Route>
+          <Route path="/seminarios" element={<Seminários />}></Route>
+          <Route path="/exibicoes-online" element={<Sessões />}></Route>
         </Routes>
       </BrowserRouter>
     </PersistGate>

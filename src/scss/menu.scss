@@ -75,7 +75,8 @@
         height: 100%;
 
         .open__link {
-
+            font-size: 22px;
+            margin-bottom: 3vw;
 
             &:first-of-type {
                 padding-top: 22vw;
@@ -92,6 +93,10 @@
             top: 4%;
             right: 10%;
         }
+
+        .open__link {
+            margin-bottom: 4.5vw;
+        }
     }
 
 }
@@ -102,10 +107,10 @@
 
     .open {
         width: 20%;
-        padding-left: 6vw;
+        padding-left: 4vw;
 
         .open__link {
-            font-size: 24px;
+            font-size: 22px;
 
             &:first-of-type {
                 padding-top: 11vw;
@@ -122,10 +127,10 @@
 
     .open {
         width: 16%;
-        padding-left: 4vw;
+        padding-left: 3.5vw;
 
         .open__link {
-            font-size: 24px;
+            font-size: 22px;
 
             &:first-of-type {
                 padding-top: 8vw;
@@ -143,10 +148,10 @@
 
     .open {
         width: 15%;
-        padding-left: 4vw;
+        padding-left: 3.5vw;
 
         .open__link {
-            font-size: 24px;
+            font-size: 22px;
 
             &:first-of-type {
                 padding-top: 7vw;
@@ -164,7 +169,7 @@
 
     .open {
         width: 14%;
-        padding-left: 3.5vw;
+        padding-left: 3vw;
 
         .open__link {
             &:first-of-type {

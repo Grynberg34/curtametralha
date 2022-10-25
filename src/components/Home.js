@@ -9,9 +9,9 @@ function Home() {
 
       <div className="home__menu">
         <img className="home__menu__img" src="/home/background-menu.png" alt="" />
-        <Link className="home__menu__link" to="/v1/programacao">Sessões presenciais</Link>
-        <Link className="home__menu__link" to="/v1/seminarios">Seminários online</Link>
-        <Link className="home__menu__link" to="/v1/sessoes">Exibições online</Link>
+        <Link className="home__menu__link" to="/programacao">Programação</Link>
+        <Link className="home__menu__link" to="/exibicoes-online">Exibições online</Link>
+        <Link className="home__menu__link" to="/seminarios">Seminários</Link>
       </div>
 
       <img id="home_1" src="/home/x.png" alt=""></img>
