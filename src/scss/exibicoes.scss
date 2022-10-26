@@ -1,6 +1,7 @@
 @import '../scss/colors.scss';
 @import '../scss/font.scss';
 @import '../scss/animations.scss';
+@import '../scss/modal.scss';
 
 .exibicoes {
     padding-top: 20vw;
@@ -32,8 +33,19 @@
             border: 2px solid $cinza;
         }
     }
+
 }
 
+.close {
+    background: none;
+    border: none;
+    outline: none;
+    font-family: 'garage-gothic', sans-serif;
+    font-size: 50px;
+    color:  $vermelho;
+    font-weight: 700;
+    margin-top: 2vw;
+}
 
 @media only screen and (max-width: 767px) {
 

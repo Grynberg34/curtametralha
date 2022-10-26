@@ -1,0 +1,13 @@
+@import '../scss/colors.scss';
+@import '../scss/font.scss';
+
+.modal-content {
+    margin-top: 7.5vw;
+    background-color:none !important;
+    background: none !important;
+
+}
+
+.modal-backdrop {
+    --bs-backdrop-opacity: 0.80 !important;
+}

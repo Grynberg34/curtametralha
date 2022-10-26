@@ -15,7 +15,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "9’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=0citQj7iS8Q",
+                    "link": "https://www.youtube.com/embed/0citQj7iS8Q",
                     "plataforma": "YT",
 
                 }
@@ -27,7 +27,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "18’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=_TmSKcNSSw8",
+                    "link": "https://www.youtube.com/embed/_TmSKcNSSw8",
                     "plataforma": "YT",
 
                 }
@@ -39,7 +39,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "8’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=Y0YLTEobsXU&t=1s",
+                    "link": "https://www.youtube.com/embed/Y0YLTEobsXU&t=1s",
                     "plataforma": "YT",
 
                 }
@@ -51,7 +51,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "10’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=V_rlM60a0lk&t=193s",
+                    "link": "https://www.youtube.com/embed/V_rlM60a0lk&t=193s",
                     "plataforma": "YT",
 
                 }
@@ -63,7 +63,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "10’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=0qEblw-TBos",
+                    "link": "https://www.youtube.com/embed/0qEblw-TBos",
                     "plataforma": "YT",
 
                 }
@@ -86,7 +86,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "14’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=F_6smlhMsbI",
+                    "link": "https://www.youtube.com/embed/F_6smlhMsbI",
                     "plataforma": "YT",
 
                 }
@@ -98,7 +98,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "18’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=ySzga4mQdsk",
+                    "link": "https://www.youtube.com/embed/ySzga4mQdsk",
                     "plataforma": "YT",
 
                 }
@@ -110,7 +110,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "11’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=ViCmWKJZRqc",
+                    "link": "https://www.youtube.com/embed/ViCmWKJZRqc",
                     "plataforma": "YT",
 
                 }
@@ -122,7 +122,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "10’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=jXikfpvUTqc",
+                    "link": "https://www.youtube.com/embed/jXikfpvUTqc",
                     "plataforma": "YT",
 
                 }
@@ -134,7 +134,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "13’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=ctg-rUFneK0",
+                    "link": "https://www.youtube.com/embed/ctg-rUFneK0",
                     "plataforma": "YT",
 
                 }
@@ -146,7 +146,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "18’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=t3AraZSfK00",
+                    "link": "https://www.youtube.com/embed/t3AraZSfK00",
                     "plataforma": "YT",
 
                 }
@@ -169,7 +169,7 @@ const sessoes = [
                 "estado": "CE",
                 "duração": "11’",
                 "online": {
-                    "link": "https://vimeo.com/44767898",
+                    "link": "http://player.vimeo.com/video/44767898",
                     "plataforma": "VI",
 
                 }
@@ -181,7 +181,7 @@ const sessoes = [
                 "estado": "DF",
                 "duração": "15’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=NkreLaHgJYs",
+                    "link": "https://www.youtube.com/embed/NkreLaHgJYs",
                     "plataforma": "YT",
 
                 }
@@ -200,7 +200,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "3’",
                 "online": {
-                    "link": "https://vimeo.com/90447710",
+                    "link": "http://player.vimeo.com/video/90447710",
                     "plataforma": "VI",
 
                 }
@@ -212,7 +212,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "18’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=t3AraZSfK00",
+                    "link": "https://www.youtube.com/embed/t3AraZSfK00",
                     "plataforma": "YT",
 
                 }
@@ -235,7 +235,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "16’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=-ASMJPzaA00",
+                    "link": "https://www.youtube.com/embed/-ASMJPzaA00",
                     "plataforma": "YT",
 
                 }
@@ -254,7 +254,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "27’",
                 "online": {
-                    "link": "https://vimeo.com/547967571/9cde8fd2ef",
+                    "link": "http://player.vimeo.com/video/547967571/9cde8fd2ef",
                     "plataforma": "VI",
 
                 }
@@ -273,7 +273,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "1’",
                 "online": {
-                    "link": "https://vimeo.com/165477853",
+                    "link": "http://player.vimeo.com/video/165477853",
                     "plataforma": "VI",
 
                 }
@@ -285,7 +285,7 @@ const sessoes = [
                 "estado": "ES",
                 "duração": "2’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=7wCsV2LhLTE",
+                    "link": "https://www.youtube.com/embed/7wCsV2LhLTE",
                     "plataforma": "YT",
 
                 }
@@ -308,7 +308,7 @@ const sessoes = [
                 "estado": "MS",
                 "duração": "15’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=rXkRg9stDmk",
+                    "link": "https://www.youtube.com/embed/rXkRg9stDmk",
                     "plataforma": "YT",
 
                 }
@@ -320,7 +320,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "18’",
                 "online": {
-                    "link": "https://vimeo.com/77526953",
+                    "link": "http://player.vimeo.com/video/77526953",
                     "plataforma": "VI",
 
                 }
@@ -332,7 +332,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "20’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=KvbN12P18Lg",
+                    "link": "https://www.youtube.com/embed/KvbN12P18Lg",
                     "plataforma": "YT",
 
                 }
@@ -344,7 +344,7 @@ const sessoes = [
                 "estado": "DF",
                 "duração": "15’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=yi7SxiVfJvc",
+                    "link": "https://www.youtube.com/embed/yi7SxiVfJvc",
                     "plataforma": "YT",
 
                 }
@@ -374,7 +374,7 @@ const sessoes = [
                 "estado": "DF",
                 "duração": "2’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=PNqqn9EJ9aM",
+                    "link": "https://www.youtube.com/embed/PNqqn9EJ9aM",
                     "plataforma": "YT",
 
                 }
@@ -386,7 +386,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "6’",
                 "online": {
-                    "link": "https://vimeo.com/175423925",
+                    "link": "http://player.vimeo.com/video/175423925",
                     "plataforma": "VI",
 
                 }
@@ -398,7 +398,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "20’",
                 "online": {
-                    "link": " https://vimeo.com/165181790",
+                    "link": " http://player.vimeo.com/video/165181790",
                     "plataforma": "VI",
 
                 }
@@ -410,7 +410,7 @@ const sessoes = [
                 "estado": "CE",
                 "duração": "12’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=zvflwODvDio",
+                    "link": "https://www.youtube.com/embed/zvflwODvDio",
                     "plataforma": "YT",
 
                 }
@@ -440,7 +440,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "11’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=pEaejXwnAQI&",
+                    "link": "https://www.youtube.com/embed/pEaejXwnAQI&",
                     "plataforma": "YT",
 
                 }
@@ -452,7 +452,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "07’",
                 "online": {
-                    "link": "https://vimeo.com/26078786",
+                    "link": "http://player.vimeo.com/video/26078786",
                     "plataforma": "VI",
 
                 }
@@ -464,7 +464,7 @@ const sessoes = [
                 "estado": "MG/PE",
                 "duração": "23’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=o4u-XatEpto",
+                    "link": "https://www.youtube.com/embed/o4u-XatEpto",
                     "plataforma": "YT",
 
                 }
@@ -494,7 +494,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "16’",
                 "online": {
-                    "link": "https://youtube.com/embed?v=_ooHIuD69BQ",
+                    "link": "https://youtube.com/embed/_ooHIuD69BQ",
                     "plataforma": "YT",
 
                 }
@@ -506,7 +506,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "7’",
                 "online": {
-                    "link": "https://vimeo.com/10024466",
+                    "link": "http://player.vimeo.com/video/10024466",
                     "plataforma": "VI",
 
                 }
@@ -518,7 +518,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "5’",
                 "online": {
-                    "link": "https://vimeo.com/365422206/c72a62dce2",
+                    "link": "http://player.vimeo.com/video/365422206/c72a62dce2",
                     "plataforma": "VI",
 
                 }
@@ -530,7 +530,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "18’",
                 "online": {
-                    "link": "https://vimeo.com/23094360",
+                    "link": "http://player.vimeo.com/video/23094360",
                     "plataforma": "VI",
 
                 }
@@ -542,7 +542,7 @@ const sessoes = [
                 "estado": "CE",
                 "duração": "19’",
                 "online": {
-                    "link": "https://vimeo.com/429853272",
+                    "link": "http://player.vimeo.com/video/429853272",
                     "plataforma": "VI",
 
                 }
@@ -579,7 +579,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "17’",
                 "online": {
-                    "link": "https://vimeo.com/46066663",
+                    "link": "http://player.vimeo.com/video/46066663",
                     "plataforma": "VI",
 
                 }
@@ -591,7 +591,7 @@ const sessoes = [
                 "estado": "CE",
                 "duração": "14’",
                 "online": {
-                    "link": "https://vimeo.com/42015938",
+                    "link": "http://player.vimeo.com/video/42015938",
                     "plataforma": "VI",
 
                 }
@@ -603,7 +603,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "7’",
                 "online": {
-                    "link": "https://vimeo.com/221839661",
+                    "link": "http://player.vimeo.com/video/221839661",
                     "plataforma": "VI",
 
                 }
@@ -615,7 +615,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "27’",
                 "online": {
-                    "link": "https://vimeo.com/293764961",
+                    "link": "http://player.vimeo.com/video/293764961",
                     "plataforma": "VI",
 
                 }
@@ -638,7 +638,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "25’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=2OF-UsCUP6Y",
+                    "link": "https://www.youtube.com/embed/2OF-UsCUP6Y",
                     "plataforma": "YT",
 
                 }
@@ -662,7 +662,7 @@ const sessoes = [
                 "estado": "BA",
                 "duração": "20’",
                 "online": {
-                    "link": "https://vimeo.com/158115567",
+                    "link": "http://player.vimeo.com/video/158115567",
                     "plataforma": "VI",
 
                 }
@@ -692,7 +692,7 @@ const sessoes = [
                 "estado": "BA",
                 "duração": "27’",
                 "online": {
-                    "link": "https://vimeo.com/536545675/325ddf7e17",
+                    "link": "http://player.vimeo.com/video/536545675/325ddf7e17",
                     "plataforma": "VI",
 
                 }
@@ -743,7 +743,7 @@ const sessoes = [
                 "estado": "AC/RJ",
                 "duração": "27’",
                 "online": {
-                    "link": "https://vimeo.com/584036137",
+                    "link": "http://player.vimeo.com/video/584036137",
                     "plataforma": "VI",
 
                 }
@@ -755,7 +755,7 @@ const sessoes = [
                 "estado": "GO",
                 "duração": "13’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=y3SRpMS3Ptw",
+                    "link": "https://www.youtube.com/embed/y3SRpMS3Ptw",
                     "plataforma": "YT",
 
                 }
@@ -767,7 +767,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "5’",
                 "online": {
-                    "link": "https://vimeo.com/355445464",
+                    "link": "http://player.vimeo.com/video/355445464",
                     "plataforma": "YT",
 
                 }
@@ -793,7 +793,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "2’",
                 "online": {
-                    "link": "https://www.youtube.com/embed?v=Rstt8VSLidA",
+                    "link": "https://www.youtube.com/embed/Rstt8VSLidA",
                     "plataforma": "YT",
 
                 }
