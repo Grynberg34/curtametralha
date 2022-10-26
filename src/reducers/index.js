@@ -20,7 +20,18 @@ const getSessionsReducer = (sessoes = null, action) => {
     return sessoes;
 };
 
+const getFilmLinkReducer = (link = '', action) => {
+    if (action.type === 'GET_FILM_LINK') {
+
+        return action.payload;
+        
+    }
+
+    return link;
+};
+
 export default combineReducers({
     open: openCloseMenuReducer,
-    sessoes: getSessionsReducer
+    sessoes: getSessionsReducer,
+    link: getFilmLinkReducer
 });

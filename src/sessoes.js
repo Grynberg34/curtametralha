@@ -13,35 +13,60 @@ const sessoes = [
                 "ano": "1991",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "9’"
+                "duração": "9’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=0citQj7iS8Q",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "MARAJÓ, A ÚLTIMA LUA DA MARÉ",
                 "ano": "1991/2010",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "18’"
+                "duração": "18’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=_TmSKcNSSw8",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "PÊNALTI, A TRANSGRESSÃO",
                 "ano": "2006",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "8’"
+                "duração": "8’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=Y0YLTEobsXU&t=1s",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "O MURO, O FILME",
                 "ano": "1985",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "10’"
+                "duração": "10’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=V_rlM60a0lk&t=193s",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "EXPLENDOR DO MARTÍRIO",
                 "ano": "1974",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "10’"
+                "duração": "10’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=0qEblw-TBos",
+                    "plataforma": "YT",
+
+                }
             }
         ]
     },
@@ -59,42 +84,72 @@ const sessoes = [
                 "ano": "1972",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "14’"
+                "duração": "14’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=F_6smlhMsbI",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "ROCINHA BRASIL 77",
                 "ano": "1977",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "18’"
+                "duração": "18’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=ySzga4mQdsk",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "ASSOCIAÇÃO DOS MORADORES DE GUARARAPES",
                 "ano": "1979",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "11’"
+                "duração": "11’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=ViCmWKJZRqc",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "CINEMAÇÃO CURTAMETRALHA",
                 "ano": "1978",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "10’"
+                "duração": "10’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=jXikfpvUTqc",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "CINEMAS FECHADOS",
                 "ano": "1980",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "13’"
+                "duração": "13’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=ctg-rUFneK0",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "ABC, BRASIL",
                 "ano": "1981",
                 "direção": "Sérgio Péo",
                 "estado": "RJ",
-                "duração": "18’"
+                "duração": "18’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=t3AraZSfK00",
+                    "plataforma": "YT",
+
+                }
             }
         ]
     },
@@ -112,14 +167,24 @@ const sessoes = [
                 "ano": "2008",
                 "direção": "Irmãos Pretti",
                 "estado": "CE",
-                "duração": "11’"
+                "duração": "11’",
+                "online": {
+                    "link": "https://vimeo.com/44767898",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "RAP: O CANTO DA CEILÂNDIA",
                 "ano": "2005",
                 "direção": "Adirley Queirós",
                 "estado": "DF",
-                "duração": "15’"
+                "duração": "15’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=NkreLaHgJYs",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "COICE NO PEITO",
@@ -133,14 +198,24 @@ const sessoes = [
                 "ano": "2013",
                 "direção": "Priscyla Bettim",
                 "estado": "SP",
-                "duração": "3’"
+                "duração": "3’",
+                "online": {
+                    "link": "https://vimeo.com/90447710",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "FAÇO DE MIM O QUE QUERO",
                 "ano": "2009",
                 "direção": "Sérgio Oliveira e Petrônio Lorena",
                 "estado": "PE",
-                "duração": "18’"
+                "duração": "18’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=t3AraZSfK00",
+                    "plataforma": "YT",
+
+                }
             }
         ]
     },
@@ -158,7 +233,12 @@ const sessoes = [
                 "ano": "2011",
                 "direção": "Isael Maxakali",
                 "estado": "MG",
-                "duração": "16’"
+                "duração": "16’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=-ASMJPzaA00",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "NEGRUM3",
@@ -172,7 +252,12 @@ const sessoes = [
                 "ano": "2018",
                 "direção": "Cleyton Xavier e Lyna Lurex",
                 "estado": "RJ",
-                "duração": "27’"
+                "duração": "27’",
+                "online": {
+                    "link": "https://vimeo.com/547967571/9cde8fd2ef",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "SOLIDARIEDADE",
@@ -186,14 +271,24 @@ const sessoes = [
                 "ano": "2022",
                 "direção": "Francisco Pereira",
                 "estado": "MG",
-                "duração": "1’"
+                "duração": "1’",
+                "online": {
+                    "link": "https://vimeo.com/165477853",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "PARA TODAS AS MOÇAS",
                 "ano": "2019",
                 "direção": "Castiel Vitorino Brasileiro",
                 "estado": "ES",
-                "duração": "2’"
+                "duração": "2’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=7wCsV2LhLTE",
+                    "plataforma": "YT",
+
+                }
             }
         ]
     },
@@ -207,32 +302,52 @@ const sessoes = [
         "extra": "Sessão comentada por Júlia Fagioli",
         "filmes": [
             {
-                "nome": "YVY REÑOI",
-                "ano": "MS",
-                "direção": "SEMENTE DA TERRA",
-                "estado": "Coletivo Ascuri",
-                "duração": "2019"
+                "nome": "YVY REÑOI, SEMENTE DA TERRA",
+                "ano": "2019",
+                "direção": "Coletivo ASCURI",
+                "estado": "MS",
+                "duração": "15’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=rXkRg9stDmk",
+                    "plataforma": "YT",
+
+                }
             },
             {
-                "nome": "EM TR NSITO",
+                "nome": "EM TRÂNSITO",
                 "ano": "2013",
                 "direção": "Marcelo Pedroso",
                 "estado": "PE",
-                "duração": "18’"
+                "duração": "18’",
+                "online": {
+                    "link": "https://vimeo.com/77526953",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "ESTAMOS TODOS AQUI",
                 "ano": "2018",
                 "direção": "Chica Andrade E Rafael Mellim",
                 "estado": "SP",
-                "duração": "20’"
+                "duração": "20’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=KvbN12P18Lg",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "O GIGANTE NUNCA DORME",
                 "ano": "2013",
                 "direção": "Dácia Ibiapina",
                 "estado": "DF",
-                "duração": "15’"
+                "duração": "15’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=yi7SxiVfJvc",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "UM PLANO PODE BASTAR",
@@ -257,28 +372,48 @@ const sessoes = [
                 "ano": "2018",
                 "direção": "Gu Da Cei",
                 "estado": "DF",
-                "duração": "2’"
+                "duração": "2’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=PNqqn9EJ9aM",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "NUNCA É NOITE NO MAPA",
                 "ano": "2016",
                 "direção": "Ernesto De Carvalho",
                 "estado": "PE",
-                "duração": "6’"
+                "duração": "6’",
+                "online": {
+                    "link": "https://vimeo.com/175423925",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "AS AVENTURAS DE PAULO BRUSCKY",
                 "ano": "2010",
                 "direção": "Gabriel Mascaro",
                 "estado": "PE",
-                "duração": "20’"
+                "duração": "20’",
+                "online": {
+                    "link": " https://vimeo.com/165181790",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "VISTA MAR",
                 "ano": "2008",
                 "direção": "Pedro Diogenes, Victor Furtado, Rubia Mercia, Henrique Leão, Rodrigo Capistrano e Claugeane Costa",
                 "estado": "CE",
-                "duração": "12’"
+                "duração": "12’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=zvflwODvDio",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "FILME DOS OUTROS",
@@ -303,21 +438,36 @@ const sessoes = [
                 "ano": "2010",
                 "direção": "André Novais Oliveira",
                 "estado": "MG",
-                "duração": "11’"
+                "duração": "11’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=pEaejXwnAQI&",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "ADORMECIDOS",
                 "ano": "2011",
                 "direção": "Clarissa Campolina",
                 "estado": "MG",
-                "duração": "07’"
+                "duração": "07’",
+                "online": {
+                    "link": "https://vimeo.com/26078786",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "CONTE ISSO ÀQUELES QUE DIZEM QUE FOMOS DERROTADOS",
                 "ano": "2018",
                 "direção": "Aiano Bemfica, Camila Bastos, Cristiano Araújo, Pedro Maia De Brito",
                 "estado": "MG/PE",
-                "duração": "23’"
+                "duração": "23’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=o4u-XatEpto",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "SETE ANOS EM MAIO",
@@ -342,35 +492,60 @@ const sessoes = [
                 "ano": "2018",
                 "direção": "Juliana Antunes",
                 "estado": "MG",
-                "duração": "16’"
+                "duração": "16’",
+                "online": {
+                    "link": "https://youtube.com/embed?v=_ooHIuD69BQ",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "LUZ INDUSTRIAL MÁGICA",
                 "ano": "2008",
                 "direção": "Kleber Mendonça Filho",
                 "estado": "PE",
-                "duração": "7’"
+                "duração": "7’",
+                "online": {
+                    "link": "https://vimeo.com/10024466",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "SAÍDA DA FÁBRICA",
                 "ano": "2015",
                 "direção": "Lucas Guerra",
                 "estado": "SP",
-                "duração": "5’"
+                "duração": "5’",
+                "online": {
+                    "link": "https://vimeo.com/365422206/c72a62dce2",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "MURO",
                 "ano": "2008",
                 "direção": "Tião",
                 "estado": "PE",
-                "duração": "18’"
+                "duração": "18’",
+                "online": {
+                    "link": "https://vimeo.com/23094360",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "CARTUCHOS DE SUPER NINTENDO EM ANÉIS DE SATURNO",
                 "ano": "2018",
                 "direção": "Leon Reis",
                 "estado": "CE",
-                "duração": "19’"
+                "duração": "19’",
+                "online": {
+                    "link": "https://vimeo.com/429853272",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "A MEMÓRIA SITIADA DA NOITE",
@@ -402,28 +577,48 @@ const sessoes = [
                 "ano": "2009",
                 "direção": "Marcelo Caetano",
                 "estado": "SP",
-                "duração": "17’"
+                "duração": "17’",
+                "online": {
+                    "link": "https://vimeo.com/46066663",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "CHARIZARD",
                 "ano": "2012",
                 "direção": "Leonardo Mouramateus",
                 "estado": "CE",
-                "duração": "14’"
+                "duração": "14’",
+                "online": {
+                    "link": "https://vimeo.com/42015938",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "ERA",
                 "ano": "2017",
                 "direção": "Julia Baumfeld",
                 "estado": "MG",
-                "duração": "7’"
+                "duração": "7’",
+                "online": {
+                    "link": "https://vimeo.com/221839661",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "RONDA",
                 "ano": "2019",
                 "direção": "Mauricio Battistuci, Francisco Miguez",
                 "estado": "SP",
-                "duração": "27’"
+                "duração": "27’",
+                "online": {
+                    "link": "https://vimeo.com/293764961",
+                    "plataforma": "VI",
+
+                }
             }
         ]
     },
@@ -441,21 +636,36 @@ const sessoes = [
                 "ano": "2016",
                 "direção": "Ana Carolina Soares",
                 "estado": "MG",
-                "duração": "25’"
+                "duração": "25’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=2OF-UsCUP6Y",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "ESTAMOS TODOS NA SARJETA MAS ALGUNS DE NÓS AINDA OLHAM AS ESTRELAS",
                 "ano": "2020",
                 "direção": "João Marcos De Almeida, Sergio Silva",
                 "estado": "SP",
-                "duração": "20’"
+                "duração": "20’",
+                "online": {
+                    "link": "https://youtu.be/4PO3cUWgjw0",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "ÓTIMO AMARELO",
                 "ano": "2016",
                 "direção": "Marcus Curvelo",
                 "estado": "BA",
-                "duração": "20’"
+                "duração": "20’",
+                "online": {
+                    "link": "https://vimeo.com/158115567",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "A MÁQUINA INFERNAL",
@@ -480,7 +690,12 @@ const sessoes = [
                 "ano": "2019",
                 "direção": "Fabio Rodrigues Filho",
                 "estado": "BA",
-                "duração": "27’"
+                "duração": "27’",
+                "online": {
+                    "link": "https://vimeo.com/536545675/325ddf7e17",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "KOGI",
@@ -526,21 +741,36 @@ const sessoes = [
                 "ano": "2021",
                 "direção": "Renato Vallone",
                 "estado": "AC/RJ",
-                "duração": "27’"
+                "duração": "27’",
+                "online": {
+                    "link": "https://vimeo.com/584036137",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "RELATOS TECNOPOBRES",
                 "ano": "2019",
                 "direção": "João Batista Silva",
                 "estado": "GO",
-                "duração": "13’"
+                "duração": "13’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=y3SRpMS3Ptw",
+                    "plataforma": "YT",
+
+                }
             },
             {
-                "nome": "CINEMA CONTEMPOR NEO",
+                "nome": "CINEMA CONTEMPORÂNEO",
                 "ano": "2020",
                 "direção": "Felipe André Silva",
                 "estado": "PE",
-                "duração": "5’"
+                "duração": "5’",
+                "online": {
+                    "link": "https://vimeo.com/355445464",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "CALÇA DE VELUDO",
@@ -561,7 +791,12 @@ const sessoes = [
                 "ano": "2014",
                 "direção": "Bruno Risas",
                 "estado": "SP",
-                "duração": "2’"
+                "duração": "2’",
+                "online": {
+                    "link": "https://www.youtube.com/embed?v=Rstt8VSLidA",
+                    "plataforma": "YT",
+
+                }
             }
         ]
     }

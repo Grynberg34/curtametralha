@@ -11,3 +11,9 @@ export const GetSessions = () => async dispatch => {
     dispatch({ type: 'GET_SESSIONS', payload: sessoes});
 
 };
+
+export const GetFilmLink = (link) => async dispatch => {
+
+    dispatch({ type: 'GET_FILM_LINK', payload: link });
+
+};
