@@ -6,7 +6,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "RETROSPECTIVA SÉRGIO PÉO: PEDAGOGIAS DA TRANSGRESSÃO",
         "classificação": "14 anos",
-        "extra": "Sessão comentada",
+        "extra": "",
         "filmes": [
             {
                 "nome": "ÑANDERU, PANOR MICA TUPINAMBÁ",
@@ -105,7 +105,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "PERAMBULAÇÃO",
         "classificação": "12 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Luiz Malta",
         "filmes": [
             {
                 "nome": "VIDA LONGA AO CINEMA CEARENSE",
@@ -151,7 +151,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "PERFORMANCE: CORPOS NO ESPAÇO",
         "classificação": "14 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Fábio de Carvalho Penido",
         "filmes": [
             {
                 "nome": "XUPAPOYNÃG",
@@ -204,7 +204,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "TERRITÓRIOS EM DISPUTA",
         "classificação": "14 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Júlia Fagioli",
         "filmes": [
             {
                 "nome": "YVY REÑOI",
@@ -250,7 +250,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "REINVENTANDO IMAGENS",
         "classificação": "16 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Renan Eduardo",
         "filmes": [
             {
                 "nome": "IMAGENS DE ACESSO",
@@ -296,12 +296,12 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "NOITE",
         "classificação": "16 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Ewerton Belico",
         "filmes": [
             {
                 "nome": "FANTASMAS",
                 "ano": "2010",
-                "direção": "André Novais",
+                "direção": "André Novais Oliveira",
                 "estado": "MG",
                 "duração": "11’"
             },
@@ -335,7 +335,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "SUSPENSÕES DO TEMPO",
         "classificação": "14 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Yasmine Evaristo",
         "filmes": [
             {
                 "nome": "PLANO CONTROLE",
@@ -388,7 +388,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": " DANÇAR",
         "classificação": "14 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Maria Trika",
         "filmes": [
             {
                 "nome": "SWINGUERRA",
@@ -434,7 +434,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "IMOBILISMO",
         "classificação": "12 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Bernardo Serino",
         "filmes": [
             {
                 "nome": "ESTADO ITINERANTE",
@@ -444,11 +444,11 @@ const sessoes = [
                 "duração": "25’"
             },
             {
-                "nome": "ESTAMOS TODOS NA SARJETA",
-                "ano": "SP",
-                "direção": "MAS ALGUNS DE NÓS AINDA OLHAM AS ESTRELAS",
-                "estado": "João Marcos De Almeida, Sergio Silva",
-                "duração": "2020"
+                "nome": "ESTAMOS TODOS NA SARJETA MAS ALGUNS DE NÓS AINDA OLHAM AS ESTRELAS",
+                "ano": "2020",
+                "direção": "João Marcos De Almeida, Sergio Silva",
+                "estado": "SP",
+                "duração": "20’"
             },
             {
                 "nome": "ÓTIMO AMARELO",
@@ -473,7 +473,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "ESPECTROS: MONTAGEM COMO GESTO",
         "classificação": "12 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Diego Silva Souza",
         "filmes": [
             {
                 "nome": "TUDO QUE É APERTADO RASGA",
@@ -519,7 +519,7 @@ const sessoes = [
         "local": "Cine Humberto Mauro",
         "nome": "PALAVRA COMO AÇÃO",
         "classificação": "16 anos",
-        "extra": "Sessão comentada",
+        "extra": "Sessão comentada por Samuel Marotta",
         "filmes": [
             {
                 "nome": "CENTELHA",

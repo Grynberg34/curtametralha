@@ -9,7 +9,7 @@ function Home() {
 
       <div className="home__menu">
         <img className="home__menu__img" src="/home/background-menu.png" alt="" />
-        <Link className="home__menu__link" to="/programacao">Programação</Link>
+        <Link className="home__menu__link" to="/sessoes-presenciais">Sessões Presenciais</Link>
         <Link className="home__menu__link" to="/exibicoes-online">Exibições online</Link>
         <Link className="home__menu__link" to="/seminarios">Seminários</Link>
       </div>

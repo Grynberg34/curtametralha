@@ -25,7 +25,7 @@ function ListaSessoes(props) {
             
             <div className="lista-sessoes">
 
-              <h1 className="lista-sessoes__title">PROGRAMAÇÃO</h1>
+              <h1 className="lista-sessoes__title">SESSÕES PRESENCIAIS</h1>
 
               { sessoes.map( (sessao) => 
                 <div key={sessao.id} className="lista-sessoes__sessao">
