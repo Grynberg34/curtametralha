@@ -52,7 +52,7 @@ function Exibições(props) {
 
                       { sessao.filmes.map( (filme) => 
                     
-                        <Col key={filme.nome} md={3} className="exibicoes__show">
+                        <Col key={filme.nome} md={3} xs={6} className="exibicoes__show">
                           {filme.online !== undefined? 
                               <div className="exibicoes__sessao__filme" onClick={() => handleShow(filme.online.link)}>
                                 <h2 className="exibicoes__sessao__filme__nome">{filme.nome}</h2>
