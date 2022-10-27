@@ -570,7 +570,12 @@ const sessoes = [
                 "ano": "2019",
                 "direção": "Bárbara Wagner, Benjamin De Burca",
                 "estado": "PE",
-                "duração": "21’"
+                "duração": "21’",
+                "online": {
+                    "link": "http://player.vimeo.com/video/764364529",
+                    "plataforma": "YT",
+
+                }
             },
             {
                 "nome": "BAILÃO",
