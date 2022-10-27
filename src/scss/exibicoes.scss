@@ -57,7 +57,6 @@
 
             .exibicoes__sessao__filme__direção {
                 position: absolute;
-                left: 5;
                 bottom: 24%;
                 font-family: 'neue-haas-grotesk-display', sans-serif;
                 font-size: 12px;
@@ -97,7 +96,43 @@
 
 @media only screen and (max-width: 767px) {
 
+    .exibicoes {
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-top: 50vw;
+        background-position: center;
 
+        .exibicoes__sessao {
+            margin-bottom: 14vw;
+
+            .exibicoes__sessao__title {
+                font-size: 30px;
+                margin-bottom: 4vw;
+            }
+
+            .exibicoes__sessao__filme {
+                height: 40vw;
+                padding: 4vw;
+                margin-bottom: 4vw;
+
+                .exibicoes__sessao__filme__nome {
+                    font-size: 14px;
+                }
+
+                .exibicoes__sessao__filme__ano {
+                    font-size: 8px;
+                }
+
+                .exibicoes__sessao__filme__direção {
+                    font-size: 8px;
+                }
+            }
+        }
+    }
+
+    .close {
+        font-size:30px
+    }
 
 }
 
