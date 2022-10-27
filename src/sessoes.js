@@ -39,7 +39,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "8’",
                 "online": {
-                    "link": "https://www.youtube.com/embed/Y0YLTEobsXU&t=1s",
+                    "link": "https://www.youtube.com/embed/Y0YLTEobsXU",
                     "plataforma": "YT",
 
                 }
@@ -51,7 +51,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "10’",
                 "online": {
-                    "link": "https://www.youtube.com/embed/V_rlM60a0lk&t=193s",
+                    "link": "https://www.youtube.com/embed/V_rlM60a0lk",
                     "plataforma": "YT",
 
                 }
@@ -212,8 +212,8 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "18’",
                 "online": {
-                    "link": "https://www.youtube.com/embed/t3AraZSfK00",
-                    "plataforma": "YT",
+                    "link": "http://player.vimeo.com/video/17438609",
+                    "plataforma": "VI",
 
                 }
             }
@@ -268,7 +268,7 @@ const sessoes = [
             },
             {
                 "nome": "RITUAIS",
-                "ano": "2022",
+                "ano": "2013",
                 "direção": "Francisco Pereira",
                 "estado": "MG",
                 "duração": "1’",
@@ -440,7 +440,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "11’",
                 "online": {
-                    "link": "https://www.youtube.com/embed/pEaejXwnAQI&",
+                    "link": "https://www.youtube.com/embed/pEaejXwnAQI",
                     "plataforma": "YT",
 
                 }
@@ -518,7 +518,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "5’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/365422206/c72a62dce2",
+                    "link": "http://player.vimeo.com/video/c72a62dce2",
                     "plataforma": "VI",
 
                 }
@@ -650,7 +650,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "20’",
                 "online": {
-                    "link": "https://youtu.be/4PO3cUWgjw0",
+                    "link": "https://www.youtube.com/embed/4PO3cUWgjw0",
                     "plataforma": "YT",
 
                 }
@@ -692,7 +692,7 @@ const sessoes = [
                 "estado": "BA",
                 "duração": "27’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/536545675/325ddf7e17",
+                    "link": "http://player.vimeo.com/video/325ddf7e17",
                     "plataforma": "VI",
 
                 }
@@ -702,14 +702,24 @@ const sessoes = [
                 "ano": "2009",
                 "direção": "Paula Gaitán ",
                 "estado": "RJ",
-                "duração": "13’"
+                "duração": "13’",
+                "online": {
+                    "link": "http://player.vimeo.com/video/536545675/d1c025c6f6", 
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "A SENTENÇA",
                 "ano": "2020",
                 "direção": "Laura Coggiola",
                 "estado": "SP",
-                "duração": "17’"
+                "duração": "17’",
+                "online": {
+                    "link": "http://player.vimeo.com/764365482", 
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "O DENTE DO DRAGÃO",
@@ -723,7 +733,13 @@ const sessoes = [
                 "ano": "2020",
                 "direção": "Rodrigo Ribeiro-Andrade",
                 "estado": "SC",
-                "duração": "10’"
+                "duração": "10’",
+                "online": {
+                    "link": "http://player.vimeo.com/764365534", 
+                    "plataforma": "VI",
+
+                }
+                
             }
         ]
     },
@@ -768,7 +784,7 @@ const sessoes = [
                 "duração": "5’",
                 "online": {
                     "link": "http://player.vimeo.com/video/355445464",
-                    "plataforma": "YT",
+                    "plataforma": "VI",
 
                 }
             },
@@ -777,7 +793,13 @@ const sessoes = [
                 "ano": "2010",
                 "direção": "Ana Moravi, Dellani Lima",
                 "estado": "MG/PB",
-                "duração": "7’"
+                "duração": "7’",
+                "online": {
+                    "link": "https://www.youtube.com/embed/VH5vP90Ygvs",
+                    "plataforma": "YT",
+
+                }
+
             },
             {
                 "nome": "NADA HAVER",
