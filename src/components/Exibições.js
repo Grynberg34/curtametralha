@@ -78,14 +78,15 @@ function Exibições(props) {
         </Container>
 
 
-        <Modal size="xl"  show={show} onHide={handleClose} className="exibicoes__modal">
-          <iframe src={link}
-          frameBorder='0'
-          allow='autoplay; encrypted-media'
-          allowFullScreen
-          title='video'
-          height="600px"
-          />
+        <Modal show={show} onHide={handleClose} className="exibicoes__modal">
+          <div className="wrapper">
+                <iframe src={link}
+                frameBorder='0'
+                allow='autoplay; encrypted-media'
+                allowFullScreen
+                title='video'
+                />
+          </div>
           <button className="close" onClick={handleClose}>VOLTAR</button>
         </Modal>
 
