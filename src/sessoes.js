@@ -169,7 +169,7 @@ const sessoes = [
                 "estado": "CE",
                 "duração": "11’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/44767898",
+                    "link": "https://player.vimeo.com/video/44767898",
                     "plataforma": "VI",
 
                 }
@@ -191,7 +191,12 @@ const sessoes = [
                 "ano": "2014",
                 "direção": "Renan Rovida",
                 "estado": "SP",
-                "duração": "25’"
+                "duração": "25’",
+                "online": {
+                    "link": "https://player.vimeo.com/video/764358148",
+                    "plataforma": "VI",
+
+                }
             },
             {
                 "nome": "VISÃO 2013 PARA ROBERTO PIVA",
@@ -200,7 +205,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "3’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/90447710",
+                    "link": "https://player.vimeo.com/video/90447710",
                     "plataforma": "VI",
 
                 }
@@ -212,7 +217,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "18’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/17438609",
+                    "link": "https://player.vimeo.com/video/17438609",
                     "plataforma": "VI",
 
                 }
@@ -254,7 +259,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "27’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/547967571/9cde8fd2ef",
+                    "link": "https://player.vimeo.com/video/547967571/9cde8fd2ef",
                     "plataforma": "VI",
 
                 }
@@ -273,7 +278,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "1’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/165477853",
+                    "link": "https://player.vimeo.com/video/165477853",
                     "plataforma": "VI",
 
                 }
@@ -320,7 +325,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "18’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/77526953",
+                    "link": "https://player.vimeo.com/video/77526953",
                     "plataforma": "VI",
 
                 }
@@ -354,7 +359,12 @@ const sessoes = [
                 "ano": "2015",
                 "direção": "Raoni Yacamin",
                 "estado": "SP",
-                "duração": "6’"
+                "duração": "6’",
+                "online": {
+                    "link": "https://player.vimeo.com/video/764359174",
+                    "plataforma": "VI",
+
+                }
             }
         ]
     },
@@ -386,7 +396,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "6’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/175423925",
+                    "link": "https://player.vimeo.com/video/175423925",
                     "plataforma": "VI",
 
                 }
@@ -398,7 +408,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "20’",
                 "online": {
-                    "link": " http://player.vimeo.com/video/165181790",
+                    "link": " https://player.vimeo.com/video/165181790",
                     "plataforma": "VI",
 
                 }
@@ -452,7 +462,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "07’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/26078786",
+                    "link": "https://player.vimeo.com/video/26078786",
                     "plataforma": "VI",
 
                 }
@@ -506,7 +516,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "7’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/10024466",
+                    "link": "https://player.vimeo.com/video/10024466",
                     "plataforma": "VI",
 
                 }
@@ -518,7 +528,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "5’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/c72a62dce2",
+                    "link": "https://player.vimeo.com/video/c72a62dce2",
                     "plataforma": "VI",
 
                 }
@@ -530,7 +540,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "18’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/23094360",
+                    "link": "https://player.vimeo.com/video/23094360",
                     "plataforma": "VI",
 
                 }
@@ -542,7 +552,7 @@ const sessoes = [
                 "estado": "CE",
                 "duração": "19’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/429853272",
+                    "link": "https://player.vimeo.com/video/429853272",
                     "plataforma": "VI",
 
                 }
@@ -572,7 +582,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "21’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/764364529",
+                    "link": "https://player.vimeo.com/video/764364529",
                     "plataforma": "YT",
 
                 }
@@ -584,7 +594,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "17’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/46066663",
+                    "link": "https://player.vimeo.com/video/46066663",
                     "plataforma": "VI",
 
                 }
@@ -596,7 +606,7 @@ const sessoes = [
                 "estado": "CE",
                 "duração": "14’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/42015938",
+                    "link": "https://player.vimeo.com/video/42015938",
                     "plataforma": "VI",
 
                 }
@@ -608,7 +618,7 @@ const sessoes = [
                 "estado": "MG",
                 "duração": "7’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/221839661",
+                    "link": "https://player.vimeo.com/video/221839661",
                     "plataforma": "VI",
 
                 }
@@ -620,7 +630,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "27’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/293764961",
+                    "link": "https://player.vimeo.com/video/293764961",
                     "plataforma": "VI",
 
                 }
@@ -667,7 +677,7 @@ const sessoes = [
                 "estado": "BA",
                 "duração": "20’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/158115567",
+                    "link": "https://player.vimeo.com/video/158115567",
                     "plataforma": "VI",
 
                 }
@@ -697,7 +707,7 @@ const sessoes = [
                 "estado": "BA",
                 "duração": "27’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/325ddf7e17",
+                    "link": "https://player.vimeo.com/video/325ddf7e17",
                     "plataforma": "VI",
 
                 }
@@ -709,7 +719,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "13’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/536545675/d1c025c6f6", 
+                    "link": "https://player.vimeo.com/video/536545675/d1c025c6f6", 
                     "plataforma": "VI",
 
                 }
@@ -721,7 +731,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "17’",
                 "online": {
-                    "link": "http://player.vimeo.com/764365482", 
+                    "link": "https://player.vimeo.com/764365482", 
                     "plataforma": "VI",
 
                 }
@@ -740,7 +750,7 @@ const sessoes = [
                 "estado": "SC",
                 "duração": "10’",
                 "online": {
-                    "link": "http://player.vimeo.com/764365534", 
+                    "link": "https://player.vimeo.com/764365534", 
                     "plataforma": "VI",
 
                 }
@@ -764,7 +774,7 @@ const sessoes = [
                 "estado": "AC/RJ",
                 "duração": "27’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/584036137",
+                    "link": "https://player.vimeo.com/video/764366303",
                     "plataforma": "VI",
 
                 }
@@ -788,7 +798,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "5’",
                 "online": {
-                    "link": "http://player.vimeo.com/video/355445464",
+                    "link": "https://player.vimeo.com/video/355445464",
                     "plataforma": "VI",
 
                 }
