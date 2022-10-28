@@ -259,7 +259,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "27’",
                 "online": {
-                    "link": "https://player.vimeo.com/video/547967571/9cde8fd2ef",
+                    "link": "https://player.vimeo.com/video/764733020",
                     "plataforma": "VI",
 
                 }
@@ -528,7 +528,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "5’",
                 "online": {
-                    "link": "https://player.vimeo.com/video/c72a62dce2",
+                    "link": "https://player.vimeo.com/video/764733248",
                     "plataforma": "VI",
 
                 }
@@ -707,7 +707,7 @@ const sessoes = [
                 "estado": "BA",
                 "duração": "27’",
                 "online": {
-                    "link": "https://player.vimeo.com/video/325ddf7e17",
+                    "link": "https://player.vimeo.com/video/764734812",
                     "plataforma": "VI",
 
                 }
