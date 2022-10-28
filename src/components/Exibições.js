@@ -74,7 +74,7 @@ function Exibições(props) {
 
                     : <div key={sessao.id} className="exibicoes__sessao">
                       <h1 className="exibicoes__sessao__title">{sessao.nome}</h1>
-                      <h2 className="exibicoes__sessao__data">Filmes disponíveis de {sessao.dataInicio}/11/2022 0h até {sessao.dataFim}/11/2022 23h59</h2>
+                      <h2 className="exibicoes__sessao__data">Filmes disponíveis de 0h de {sessao.dataInicio}/11/2022 até 23h59 de {sessao.dataFim}/11/2022</h2>
                       <Row>
                         { sessao.filmes.map( (filme) => 
                       
