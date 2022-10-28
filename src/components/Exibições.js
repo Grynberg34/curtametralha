@@ -59,7 +59,7 @@ function Exibições(props) {
                     
                         <Col key={filme.nome} md={3} xs={6} className="exibicoes__show">
                           {filme.online !== undefined? 
-                              <div className="exibicoes__sessao__filme grey_border" onClick={() => handleShow(filme.online.link)}>
+                              <div className="exibicoes__sessao__filme grey_border" style={{backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0.75) 0%,rgba(0,0,0,0.75) 100%), url('/exibicoes/${filme.online.imagem}')`}} onClick={() => handleShow(filme.online.link)}>
                                 <h2 className="exibicoes__sessao__filme__nome">{filme.nome}</h2>
                                 <h3 className="exibicoes__sessao__filme__ano">{filme.ano}</h3>
                                 <h4 className="exibicoes__sessao__filme__direção">{filme.direção}</h4>
@@ -74,13 +74,13 @@ function Exibições(props) {
 
                     : <div key={sessao.id} className="exibicoes__sessao">
                       <h1 className="exibicoes__sessao__title">{sessao.nome}</h1>
-                      <h2 className="exibicoes__sessao__data">Filmes disponíveis de 0h de {sessao.dataInicio}/11/2022 até 23h59 de {sessao.dataFim}/11/2022</h2>
+                      <h2 className="exibicoes__sessao__data">Filmes disponíveis de 00h00 de {sessao.dataInicio}/11/2022 até 23h59 de {sessao.dataFim}/11/2022</h2>
                       <Row>
                         { sessao.filmes.map( (filme) => 
                       
                           <Col key={filme.nome} md={3} xs={6} className="exibicoes__show">
                             {filme.online !== undefined? 
-                                <div className="exibicoes__sessao__filme hide">
+                                <div className="exibicoes__sessao__filme hide" style={{backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0.75) 0%,rgba(0,0,0,0.75) 100%), url('/exibicoes/${filme.online.imagem}')`}}>
                                   <h2 className="exibicoes__sessao__filme__nome">{filme.nome}</h2>
                                   <h3 className="exibicoes__sessao__filme__ano">{filme.ano}</h3>
                                   <h4 className="exibicoes__sessao__filme__direção">{filme.direção}</h4>

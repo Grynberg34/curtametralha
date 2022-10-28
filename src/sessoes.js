@@ -19,7 +19,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/0citQj7iS8Q",
                     "plataforma": "YT",
-
+                    "imagem": "1-1.png"
                 }
             },
             {
@@ -31,7 +31,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/_TmSKcNSSw8",
                     "plataforma": "YT",
-
+                    "imagem": "1-2.png"
                 }
             },
             {
@@ -43,7 +43,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/Y0YLTEobsXU",
                     "plataforma": "YT",
-
+                    "imagem": "1-3.png"
                 }
             },
             {
@@ -55,7 +55,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/V_rlM60a0lk",
                     "plataforma": "YT",
-
+                    "imagem": "1-4.png"
                 }
             },
             {
@@ -67,7 +67,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/0qEblw-TBos",
                     "plataforma": "YT",
-
+                    "imagem": "1-5.png"
                 }
             }
         ]
@@ -92,7 +92,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/F_6smlhMsbI",
                     "plataforma": "YT",
-
+                    "imagem": "2-1.jpg"
                 }
             },
             {
@@ -104,7 +104,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/ySzga4mQdsk",
                     "plataforma": "YT",
-
+                    "imagem": "2-2.jpg"
                 }
             },
             {
@@ -116,7 +116,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/ViCmWKJZRqc",
                     "plataforma": "YT",
-
+                    "imagem": "2-3.png"
                 }
             },
             {
@@ -128,7 +128,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/jXikfpvUTqc",
                     "plataforma": "YT",
-
+                    "imagem": "2-4.png"
                 }
             },
             {
@@ -140,7 +140,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/ctg-rUFneK0",
                     "plataforma": "YT",
-
+                    "imagem": "2-5.png"
                 }
             },
             {
@@ -152,7 +152,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/t3AraZSfK00",
                     "plataforma": "YT",
-
+                    "imagem": "2-6.png"
                 }
             }
         ]
@@ -177,7 +177,7 @@ const sessoes = [
                 "online": {
                     "link": "https://player.vimeo.com/video/44767898",
                     "plataforma": "VI",
-
+                    "imagem": "3-1.jpg"
                 }
             },
             {
@@ -189,7 +189,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/NkreLaHgJYs",
                     "plataforma": "YT",
-
+                    "imagem": "3-2.png"
                 }
             },
             {
@@ -201,7 +201,7 @@ const sessoes = [
                 "online": {
                     "link": "https://player.vimeo.com/video/764358148",
                     "plataforma": "VI",
-
+                    "imagem": "3-3.jpg"
                 }
             },
             {
@@ -213,7 +213,7 @@ const sessoes = [
                 "online": {
                     "link": "https://player.vimeo.com/video/90447710",
                     "plataforma": "VI",
-
+                    "imagem": "3-4.png"
                 }
             },
             {
@@ -225,7 +225,7 @@ const sessoes = [
                 "online": {
                     "link": "https://player.vimeo.com/video/17438609",
                     "plataforma": "VI",
-
+                    "imagem": "3-5.jpg"
                 }
             }
         ]
@@ -250,7 +250,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/-ASMJPzaA00",
                     "plataforma": "YT",
-
+                    "imagem": "4-1.jpg"
                 }
             },
             {
@@ -269,7 +269,7 @@ const sessoes = [
                 "online": {
                     "link": "https://player.vimeo.com/video/764733020",
                     "plataforma": "VI",
-
+                    "imagem": "4-3.png"
                 }
             },
             {
@@ -288,7 +288,7 @@ const sessoes = [
                 "online": {
                     "link": "https://player.vimeo.com/video/165477853",
                     "plataforma": "VI",
-
+                    "imagem": "4-5.png"
                 }
             },
             {
@@ -300,7 +300,7 @@ const sessoes = [
                 "online": {
                     "link": "https://www.youtube.com/embed/7wCsV2LhLTE",
                     "plataforma": "YT",
-
+                    "imagem": "4-6.jpg"
                 }
             }
         ]
