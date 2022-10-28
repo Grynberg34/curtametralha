@@ -53,7 +53,7 @@ function Exibições(props) {
                   { (dia === sessao.dataInicio || dia === sessao.dataFim)?
                     <div className="exibicoes__sessao">
                     <h1 className="exibicoes__sessao__title">{sessao.nome}</h1>
-                    <h2 className="exibicoes__sessao__watch">ASSISTA AGORA</h2>
+                    <h2 className="exibicoes__sessao__watch">FILMES DISPONÍVEIS ATÉ {sessao.dataFim}/11</h2>
                     <Row>
                       { sessao.filmes.map( (filme) => 
                     
