@@ -7,6 +7,8 @@ const sessoes = [
         "nome": "RETROSPECTIVA SÉRGIO PÉO: PEDAGOGIAS DA TRANSGRESSÃO",
         "classificação": "14 anos",
         "extra": "",
+        "dataInicio": 28,
+        "dataFim": 29,
         "filmes": [
             {
                 "nome": "ÑANDERU, PANOR MICA TUPINAMBÁ",
@@ -78,6 +80,8 @@ const sessoes = [
         "nome": "RETROSPECTIVA SÉRGIO PÉO: POÉTICAS URBANAS",
         "classificação": "16 anos",
         "extra": "20h30 - Conversa com Sérgio Péo, Mayra Jucá e João Campos",
+        "dataInicio": 27,
+        "dataFim": 28,
         "filmes": [
             {
                 "nome": "PIRA",
@@ -161,6 +165,8 @@ const sessoes = [
         "nome": "PERAMBULAÇÃO",
         "classificação": "12 anos",
         "extra": "Sessão comentada por Luiz Malta",
+        "dataInicio": 4,
+        "dataFim": 5,
         "filmes": [
             {
                 "nome": "VIDA LONGA AO CINEMA CEARENSE",
@@ -232,6 +238,8 @@ const sessoes = [
         "nome": "PERFORMANCE: CORPOS NO ESPAÇO",
         "classificação": "14 anos",
         "extra": "Sessão comentada por Fábio de Carvalho Penido",
+        "dataInicio": 4,
+        "dataFim": 5,
         "filmes": [
             {
                 "nome": "XUPAPOYNÃG",
@@ -305,6 +313,8 @@ const sessoes = [
         "nome": "TERRITÓRIOS EM DISPUTA",
         "classificação": "14 anos",
         "extra": "Sessão comentada por Júlia Fagioli",
+        "dataInicio": 5,
+        "dataFim": 6,
         "filmes": [
             {
                 "nome": "YVY REÑOI, SEMENTE DA TERRA",
@@ -376,6 +386,8 @@ const sessoes = [
         "nome": "REINVENTANDO IMAGENS",
         "classificação": "16 anos",
         "extra": "Sessão comentada por Renan Eduardo",
+        "dataInicio": 5,
+        "dataFim": 6,
         "filmes": [
             {
                 "nome": "IMAGENS DE ACESSO",
@@ -442,6 +454,8 @@ const sessoes = [
         "nome": "NOITE",
         "classificação": "16 anos",
         "extra": "Sessão comentada por Ewerton Belico",
+        "dataInicio": 5,
+        "dataFim": 6,
         "filmes": [
             {
                 "nome": "FANTASMAS",
@@ -496,6 +510,8 @@ const sessoes = [
         "nome": "SUSPENSÕES DO TEMPO",
         "classificação": "14 anos",
         "extra": "Sessão comentada por Yasmine Evaristo",
+        "dataInicio": 6,
+        "dataFim": 7,
         "filmes": [
             {
                 "nome": "PLANO CONTROLE",
@@ -516,7 +532,7 @@ const sessoes = [
                 "estado": "PE",
                 "duração": "7’",
                 "online": {
-                    "link": "https://player.vimeo.com/video/10024466",
+                    "link": "https://player.vimeo.com/video/764959492",
                     "plataforma": "VI",
 
                 }
@@ -574,6 +590,8 @@ const sessoes = [
         "nome": " DANÇAR",
         "classificação": "14 anos",
         "extra": "Sessão comentada por Maria Trika",
+        "dataInicio": 6,
+        "dataFim": 7,
         "filmes": [
             {
                 "nome": "SWINGUERRA",
@@ -645,6 +663,8 @@ const sessoes = [
         "nome": "IMOBILISMO",
         "classificação": "12 anos",
         "extra": "Sessão comentada por Bernardo Serino",
+        "dataInicio": 6,
+        "dataFim": 7,
         "filmes": [
             {
                 "nome": "ESTADO ITINERANTE",
@@ -699,6 +719,8 @@ const sessoes = [
         "nome": "ESPECTROS: MONTAGEM COMO GESTO",
         "classificação": "12 anos",
         "extra": "Sessão comentada por Diego Silva Souza",
+        "dataInicio": 7,
+        "dataFim": 8,
         "filmes": [
             {
                 "nome": "TUDO QUE É APERTADO RASGA",
@@ -766,6 +788,8 @@ const sessoes = [
         "nome": "PALAVRA COMO AÇÃO",
         "classificação": "16 anos",
         "extra": "Sessão comentada por Samuel Marotta",
+        "dataInicio": 7,
+        "dataFim": 8,
         "filmes": [
             {
                 "nome": "CENTELHA",

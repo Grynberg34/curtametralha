@@ -15,7 +15,9 @@ function Exibições(props) {
   var sessoes = props.sessoes;
   var link = props.link;
 
-  console.log(link)
+  var data = new Date();
+
+  var dia = data.getDate();
 
   const [show, setShow] = useState(false);
 
@@ -45,11 +47,14 @@ function Exibições(props) {
               <Logo2 />
 
               { sessoes.map( (sessao) => 
-                  <div key={sessao.id} className="exibicoes__sessao">
+
+                <div key={sessao.id}>
+
+                  { (dia === sessao.dataInicio || dia === sessao.dataFim)?
+                    <div className="exibicoes__sessao">
                     <h1 className="exibicoes__sessao__title">{sessao.nome}</h1>
-
+                    <h2 className="exibicoes__sessao__watch">ASSISTA AGORA</h2>
                     <Row>
-
                       { sessao.filmes.map( (filme) => 
                     
                         <Col key={filme.nome} md={3} xs={6} className="exibicoes__show">
@@ -63,14 +68,35 @@ function Exibições(props) {
                             : <span></span> 
                           }
                         </Col>
-                        
                       )}
-
-
                     </Row>
+                    </div>
+
+                    : <div key={sessao.id} className="exibicoes__sessao">
+                      <h1 className="exibicoes__sessao__title">{sessao.nome}</h1>
+                      <h2 className="exibicoes__sessao__data">Filmes disponíveis de {sessao.dataInicio}/11/2022 a {sessao.dataFim}/11/2022</h2>
+                      <Row>
+                        { sessao.filmes.map( (filme) => 
+                      
+                          <Col key={filme.nome} md={3} xs={6} className="exibicoes__show">
+                            {filme.online !== undefined? 
+                                <div className="exibicoes__sessao__filme hide">
+                                  <h2 className="exibicoes__sessao__filme__nome">{filme.nome}</h2>
+                                  <h3 className="exibicoes__sessao__filme__ano">{filme.ano}</h3>
+                                  <h4 className="exibicoes__sessao__filme__direção">{filme.direção}</h4>
+
+                                </div>
+                              : <span></span> 
+                            }
+                          </Col>
+                        )}
+                      </Row>
+                    </div>
+                  }
+
+                </div>
 
 
-                  </div>
               )}
 
             </Col>
