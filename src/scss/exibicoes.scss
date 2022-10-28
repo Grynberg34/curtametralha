@@ -60,6 +60,7 @@
             cursor: pointer;
             padding: 1vw;
             margin-bottom: 2vw;
+            border: 2px solid black;
 
             .exibicoes__sessao__filme__nome {
                 font-family: 'garage-gothic', sans-serif;
@@ -95,6 +96,10 @@
 
 .hide {
     cursor: default !important;
+}
+
+.grey_border {
+    border: 2px solid $cinza !important;
 }
 
 .wrapper {

@@ -53,13 +53,13 @@ function Exibições(props) {
                   { (dia === sessao.dataInicio || dia === sessao.dataFim)?
                     <div className="exibicoes__sessao">
                     <h1 className="exibicoes__sessao__title">{sessao.nome}</h1>
-                    <h2 className="exibicoes__sessao__watch">FILMES DISPONÍVEIS ATÉ {sessao.dataFim}/11</h2>
+                    <h2 className="exibicoes__sessao__watch">DISPONÍVEIS AGORA</h2>
                     <Row>
                       { sessao.filmes.map( (filme) => 
                     
                         <Col key={filme.nome} md={3} xs={6} className="exibicoes__show">
                           {filme.online !== undefined? 
-                              <div className="exibicoes__sessao__filme" onClick={() => handleShow(filme.online.link)}>
+                              <div className="exibicoes__sessao__filme grey_border" onClick={() => handleShow(filme.online.link)}>
                                 <h2 className="exibicoes__sessao__filme__nome">{filme.nome}</h2>
                                 <h3 className="exibicoes__sessao__filme__ano">{filme.ano}</h3>
                                 <h4 className="exibicoes__sessao__filme__direção">{filme.direção}</h4>
@@ -74,7 +74,7 @@ function Exibições(props) {
 
                     : <div key={sessao.id} className="exibicoes__sessao">
                       <h1 className="exibicoes__sessao__title">{sessao.nome}</h1>
-                      <h2 className="exibicoes__sessao__data">Filmes disponíveis de {sessao.dataInicio}/11/2022 a {sessao.dataFim}/11/2022</h2>
+                      <h2 className="exibicoes__sessao__data">Filmes disponíveis de {sessao.dataInicio}/11/2022 0h até {sessao.dataFim}/11/2022 23h59</h2>
                       <Row>
                         { sessao.filmes.map( (filme) => 
                       
