@@ -731,7 +731,7 @@ const sessoes = [
                 "estado": "SP",
                 "duração": "17’",
                 "online": {
-                    "link": "https://player.vimeo.com/764365482", 
+                    "link": "https://player.vimeo.com/video/764743075?h=1cca5c4161", 
                     "plataforma": "VI",
 
                 }
@@ -750,7 +750,7 @@ const sessoes = [
                 "estado": "SC",
                 "duração": "10’",
                 "online": {
-                    "link": "https://player.vimeo.com/764365534", 
+                    "link": "https://player.vimeo.com/video/764365534", 
                     "plataforma": "VI",
 
                 }
