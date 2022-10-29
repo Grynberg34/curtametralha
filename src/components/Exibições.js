@@ -63,7 +63,6 @@ function Exibições(props) {
                                 <h2 className="exibicoes__sessao__filme__nome">{filme.nome}</h2>
                                 <h3 className="exibicoes__sessao__filme__ano">{filme.ano}</h3>
                                 <h4 className="exibicoes__sessao__filme__direção">{filme.direção}</h4>
-
                               </div>
                             : <span></span> 
                           }
@@ -84,7 +83,6 @@ function Exibições(props) {
                                   <h2 className="exibicoes__sessao__filme__nome">{filme.nome}</h2>
                                   <h3 className="exibicoes__sessao__filme__ano">{filme.ano}</h3>
                                   <h4 className="exibicoes__sessao__filme__direção">{filme.direção}</h4>
-
                                 </div>
                               : <span></span> 
                             }
