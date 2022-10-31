@@ -5,7 +5,6 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 import App from './components/App';
 import Programação from './components/Programação';
 import Seminários from './components/Seminários';
-import Sessões from './components/Sessões';
 import Exibições from './components/Exibições';
 import {store, persistor} from './store.js';
 import { PersistGate } from 'redux-persist/integration/react';
@@ -26,8 +25,7 @@ ReactDOM.render(
           <Route path="/" element={<App />}></Route>
           <Route path="/sessoes-presenciais" element={<Programação />}></Route>
           <Route path="/seminarios" element={<Seminários />}></Route>
-          <Route path="/exibicoes-online" element={<Sessões />}></Route>
-          <Route path="/v1/exibicoes" element={<Exibições />}></Route>
+          <Route path="/exibicoes-online" element={<Exibições />}></Route>
         </Routes>
       </BrowserRouter>
     </PersistGate>

@@ -7,8 +7,8 @@ const sessoes = [
         "nome": "RETROSPECTIVA SÉRGIO PÉO: PEDAGOGIAS DA TRANSGRESSÃO",
         "classificação": "14 anos",
         "extra": "",
-        "dataInicio": 28,
-        "dataFim": 29,
+        "dataInicio": 3,
+        "dataFim": 4,
         "filmes": [
             {
                 "nome": "ÑANDERU, PANOR MICA TUPINAMBÁ",
@@ -80,8 +80,8 @@ const sessoes = [
         "nome": "RETROSPECTIVA SÉRGIO PÉO: POÉTICAS URBANAS",
         "classificação": "16 anos",
         "extra": "20h30 - Conversa com Sérgio Péo, Mayra Jucá e João Campos",
-        "dataInicio": 27,
-        "dataFim": 28,
+        "dataInicio": 3,
+        "dataFim": 4,
         "filmes": [
             {
                 "nome": "PIRA",
