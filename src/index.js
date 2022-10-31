@@ -10,7 +10,7 @@ import {store, persistor} from './store.js';
 import { PersistGate } from 'redux-persist/integration/react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ScrollToTop from "./helpers/ScrollToTop";
-import ReactGA from "react-ga";
+import ReactGA from "react-ga4";
 
 const TRACKING_ID = "G-PVWM04C4C7";
 ReactGA.initialize(TRACKING_ID);
