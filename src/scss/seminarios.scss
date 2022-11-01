@@ -66,6 +66,21 @@
             line-height: 2;
             padding-right: 6vw;
         }
+
+        .seminarios__seminario__wrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 25px;
+            width: 85%;
+            height: 0;
+        }
+        .seminarios__seminario__wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
     }
 
 }
@@ -123,6 +138,10 @@
             .seminarios__seminario__paragraph {
                 font-size: 14px;
                 padding-right: 0;
+            }
+
+            .seminarios__seminario__wrapper {
+                width: 100%;
             }
         }
     }

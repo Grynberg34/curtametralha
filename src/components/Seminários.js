@@ -28,6 +28,16 @@ function Seminários() {
                   <br/><br/>
                   Quais metamorfoses estilísticas encontramos nos dois períodos articulados em nossa curadoria experimental? como o olhar do cinema acompanha o fio da história de um país? como as formas coletivas de fazer filmes se refletem nas variações estilísticas e na dimensão de autoria das obras?
                 </p>
+
+                <div className="seminarios__seminario__wrapper">
+                  <iframe src="https://www.youtube.com/embed/kIHGx7sK98c"
+                  frameBorder='0'
+                  allow='autoplay; encrypted-media'
+                  allowFullScreen
+                  title='video'
+                  />
+                </div>
+
               </div>
 
               <div className="seminarios__seminario">
@@ -40,6 +50,16 @@ function Seminários() {
                   <br/><br/>
                   Podemos falar, hoje, do curta-metragismo como ofício? como pensar relações laborais e políticas públicas que considerem a singularidade dessa forma do cinema? como criar bases materiais que possibilitem a existência do trabalhador curta-metragista? qual a situação estética, política e laboral do curta-metragismo brasileiro nos períodos investigados pela mostra?
                 </p>
+
+                <div className="seminarios__seminario__wrapper">
+                  <iframe src="https://www.youtube.com/embed/O0H2V4ZS24Q"
+                  frameBorder='0'
+                  allow='autoplay; encrypted-media'
+                  allowFullScreen
+                  title='video'
+                  />
+                </div>
+
               </div>
 
               <div className="seminarios__seminario">
@@ -50,6 +70,16 @@ function Seminários() {
                   <br/><br/>
                   O que o curta-metragem brasileiro tem a dizer sobre a luta de classes? quais são os marcos teóricos, dramáticos, estéticos dessa reinvenção das formas de mostrar as classes sociais? como o cinema nacional reagiu às profundas transformações no campo do trabalho e, por conseguinte, na estrutura da sociedade de classes do país?
                 </p>
+
+                <div className="seminarios__seminario__wrapper">
+                  <iframe src="https://www.youtube.com/embed/l72FgVOSUYo"
+                  frameBorder='0'
+                  allow='autoplay; encrypted-media'
+                  allowFullScreen
+                  title='video'
+                  />
+                </div>
+
               </div>
               
             </Col>
