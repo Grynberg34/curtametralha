@@ -150,7 +150,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "18’",
                 "online": {
-                    "link": "https://www.youtube.com/embed/t3AraZSfK00",
+                    "link": "https://www.youtube.com/embed/1DWKTm3UzOc",
                     "plataforma": "YT",
                     "imagem": "2-6.png"
                 }
