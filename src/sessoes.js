@@ -707,7 +707,12 @@ const sessoes = [
                 "ano": "2021",
                 "direção": "Francis Vogner Dos Reis",
                 "estado": "SP",
-                "duração": "30’"
+                "duração": "30’",
+                "online": {
+                    "link": "https://player.vimeo.com/video/767650588",
+                    "plataforma": "VI",
+                    "imagem": "10-3.jpg"
+                }
             }
         ]
     },
