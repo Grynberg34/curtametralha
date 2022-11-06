@@ -711,7 +711,7 @@ const sessoes = [
                 "online": {
                     "link": "https://player.vimeo.com/video/767650588",
                     "plataforma": "VI",
-                    "imagem": "10-3.jpg"
+                    "imagem": "10-4.jpg"
                 }
             }
         ]
