@@ -775,7 +775,12 @@ const sessoes = [
                 "ano": "2020",
                 "direção": "Rodrigo Ribeiro-Andrade",
                 "estado": "SC",
-                "duração": "10’"
+                "duração": "10’",
+                "online": {
+                    "link": "https://player.vimeo.com/video/768105992", 
+                    "plataforma": "VI",
+                    "imagem": "11-5.jpg"
+                }
             }
         ]
     },
