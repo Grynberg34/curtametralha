@@ -746,7 +746,7 @@ const sessoes = [
                 "estado": "RJ",
                 "duração": "13’",
                 "online": {
-                    "link": "https://player.vimeo.com/video/536545675/d1c025c6f6", 
+                    "link": "https://player.vimeo.com/video/768115550", 
                     "plataforma": "VI",
                     "imagem": "11-2.jpg"
                 }
